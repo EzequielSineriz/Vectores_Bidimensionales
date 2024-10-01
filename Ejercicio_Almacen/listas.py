@@ -3,3 +3,4 @@ productos = [ ["Botellas", 3, [1,2]],
              ["Fideos", 4, [2,4]],
              ["Leche", 6, [3,4]]
 ]
+
